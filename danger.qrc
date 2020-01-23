@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="dangerr">
+    <file>cancel.jpg</file>
+    <file>help.gif</file>
+  </qresource>
+</RCC>
